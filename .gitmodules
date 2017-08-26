@@ -1,3 +1,6 @@
 [submodule "wxMarathon"]
 	path = wxMarathon
 	url = https://github.com/ylksty/wxMarathon.git
+[submodule "wxLiuwa"]
+	path = wxLiuwa
+	url = https://git.oschina.net/ylkget/wxLiuwa.git
