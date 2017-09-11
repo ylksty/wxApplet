@@ -4,3 +4,6 @@
 [submodule "wxLiuwa"]
 	path = wxLiuwa
 	url = https://git.oschina.net/ylkget/wxLiuwa.git
+[submodule "wxLiuwaSH"]
+	path = wxLiuwaSH
+	url = https://git.oschina.net/ylkget/wxLiuwaSH.git
