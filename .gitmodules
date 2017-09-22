@@ -7,3 +7,6 @@
 [submodule "wxLiuwaSH"]
 	path = wxLiuwaSH
 	url = https://git.oschina.net/ylkget/wxLiuwaSH.git
+[submodule "we-cropper"]
+	path = we-cropper
+	url = https://github.com/ylksty/we-cropper.git
